@@ -23,10 +23,8 @@
 - Прогноз на 2025–2035 годы
 - Специальный блок для Казахстана
 
-## Как запустить
-1. Открыть ноутбук: [Mental_Health_Predictor.ipynb](Mental_Health_Predictor.ipynb)
-2. Запустить все ячейки по порядку
-3. В последней ячейке — интерактивный прогнозатор (перемещай ползунки → получай прогноз)
+### Как пользоваться
+https://colab.research.google.com/drive/1c6My2fQXgpZXxrIQgje2VWl5Otrj8A9S?usp=sharing
 
 ## Скриншоты
 ![image](https://github.com/KhursandA6YourCrash9/mental-health-predictor/assets/123456789/screenshot1.png)  
