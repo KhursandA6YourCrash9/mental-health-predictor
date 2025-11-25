@@ -30,7 +30,7 @@
 
 ## Скриншоты
 ![image](https://github.com/KhursandA6YourCrash9/mental-health-predictor/assets/123456789/screenshot1.png)  
-(после первого коммита вставишь реальные скрины)
+
 
 ## Автор
 Хурсанд — студент, который сделал реально полезный проект
