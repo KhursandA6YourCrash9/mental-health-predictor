@@ -29,11 +29,11 @@
 3. В последней ячейке — интерактивный прогнозатор (перемещай ползунки → получай прогноз)
 
 ## Скриншоты
-![image](https://github.com/ТВОЙ_НИК/mental-health-predictor/assets/123456789/screenshot1.png)  
+![image](https://github.com/KhursandA6YourCrash9/mental-health-predictor/assets/123456789/screenshot1.png)  
 (после первого коммита вставишь реальные скрины)
 
 ## Автор
-[Твоё имя] — студент, который сделал реально полезный проект
+Хурсанд — студент, который сделал реально полезный проект
 
 Данные: IHME Global Burden of Disease 2021  
 Лицензия: MIT
